@@ -13,7 +13,7 @@ We coded in Java and created a UserCollection class with sample data that contai
 # What You'll Need
 Java FX must be installed for this version.  However, in the next version we would like to make it an iOS feauture. 
 
-# Challenges we ran into
+# Challenges We Ran Into
 Originally, we desired to create an app and looked into coding with Swift. We soon realized the learning curve was too steep for the 36 hour limit.  We decided to code in something we were all skilled in - Java.
 
 ## Authors
