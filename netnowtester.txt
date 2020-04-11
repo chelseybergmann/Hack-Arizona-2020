@@ -1,0 +1,169 @@
+Full Name: Jane Doe
+Field: Computer Science
+Username: janedoe123
+Password: ilove2code
+Age: 21
+Email: janed@gmail.com
+Type: Applicant
+Looking for: I am looking for a software development internship that will help me gain experience in both front-end and back-end development. I want to work hands on with a team. I am willing to work for a start up or a bigger company, but practical experience is my top priority. 
+Yourself: I am a computer science student in my junior year. I have 2 years of experience in Python and this is my first year in Java. I also am new to JavaScript, and have really enjoyed my Web Programming course so far. I am a dedicated hard worker who is eager to learn. Another fun fact about me is that I also love robotics. 
+
+Full Name: Kate Barney
+Field: Computer Science
+Username: katebarney
+Password: catsanddogs
+Age: 45
+Email: kbarn@gmail.com
+Type: Employer
+Looking for: I am looking for someone with skill in development of software in a small business environment. We often perform at least some tasks outside of their areas of expertise in several functional areas such as systems engineering, requirements development, integration and test, deployment and O&M. This position may also require direct interaction with end users and customers.
+Yourself: our primary business is innovating, developing, and fielding digital signal processing (DSP) products and services for the United States Defense and Intelligence Communities in support of national security. We are a start up and offer practical experience for interns. 
+
+Full Name: Jake Thomas
+Field: Education
+Username: jakethomas999
+Password: shakenbake
+Age: 27
+Email: jt12@gmaile.com
+Type: Applicant
+Looking for: I am looking for a teaching job for elementary education. I prefer to teach for a public school, with underprivileged youth. A special education class would be a plus. My wish is to make an impact on my community. Any school that needs help with troubled youth would be ideal. 
+Yourself: I am a highly skilled teacher with a bachelor’s and master’s degree and over 10 years of experience in elementary education specializing in special education, as well as kids with a multitude of behavioral issues. Childhood Development is a big interest of mine. I have excellent communication skills and I have mastered lesson planning. I like to be creative with my in-class activities and give my students a well-rounded learning experience. Highly professional in appearance and standards. 
+
+Full Name: Lilly Gomez
+Field: Education
+Username: 55lillybilly
+Password: crazyone999
+Age: 49
+Email: selenagluver123@gmail.com
+Type: Employer
+Looking for: A highly skilled teacher with a master’s degree in Education. We need someone in the elementary department to teach first grade. Someone with Compassion for students, parents, and colleagues. Someone to Maintain professional standards of appearance, courtesy, responsiveness, discretion, punctuality, and attendance and always demonstrate a high standard of personal character and conduct.
+Yourself: I am a recruiter for Tucson Academy. I have been with the company for over fifteen years. We specialize in children with behavioral issues and learning disabilities. Being creative is a priority for Tucson Academy, as well as maintaining a community and making impacts on underprivileged youth. 
+
+Full Name: Gary Ramsey
+Field: Computer Science
+Username: ramseyhgary
+Password: compscirules
+Age: 50
+Email: rams92@yahoo.com
+Type: Networker
+Looking for: I am looking for a friend in the computer science realm.  I am looking for someone who would be interested starting new side projects and hustles, or would explore new business ventures in the future.
+Yourself: I am new to the computer science field. I used to be in engineering, but found myself programming due to some market changes. I am very passionate about software development now, and I love to make websites and applications for fun. 
+
+Full Name: Katie Wilson
+Field: Computer Science
+Username: ktwilson00
+Password: ktw
+Age: 36
+Email: ttyllolcya@aol.net
+Type: Networker
+Looking for: A friend who would be interested in working on side projects together. I want to explore more in my field in a fun way. Someone who likes to create their own applications would be ideal. Someone who is as passionate about this field as I am.
+Yourself: I am a passionate young computer scientist who really just loves the field. I am always up for new business ventures and side hustles. In the future, I want to be a CEO of my own development company. 
+
+Full Name: Brian Lee
+Field: Engineering
+Username: leetylerbrian
+Password: engineer4life
+Age: 48
+Email: blee@yahoo.com
+Type: Networker
+Looking for: I am looking for someone to discuss ideas with me. I have a lot up my sleeve and I am tired of getting judged by my coworkers, so I want a judge-free zone. It would make me so happy to meet someone new. 
+Yourself: I am passionate about hydraulics and cement pouring. I have been in this industry a long time, so I think it is about time I meet some people in my field. I am a hard working, fun loving, mechanical engineer who loves what he does. If you need someone to talk to, I am here! 
+
+Full Name: Tristan Young
+Field: Engineering
+Username: tyoung671
+Password: yungengineer
+Age: 19
+Email: youngyt87@gmail.com
+Type: Applicant
+Looking for: I am looking for an internship with any type of engineering with a company that does work in the community building industry. I am also open to anything involving development. 
+Yourself: I am a freshman at the University of Arizona and I am a Electrical and Computer Engineering major. I want to gain practical experience, as I already have experience from high school working at my dad’s company in community building and development. His company built hotels in Las Vegas. I have experience working in teams
+
+Full Name: Susan Brown
+Field: Engineering
+Username: smartgirl91
+Password: funinthesun
+Age: 39
+Email: sb77@gmail.com
+Type: Employer
+Looking for: An applicant who wants to discuss future plans or is interested in a mentor or job shadowing opportunity. I am always open to helping young engineers. I feel as if I can learn something in the youth. I am looking for someone driven, passionate, and open to new things in the industry.
+Yourself: I am an engineering professional who has been in biomedical engineering for many years. If you are looking for a fun new experience and want to learn from someone in the industry, I am your gal. I will take you to visit all of our work sites and offices or just sit and chat and answer whatever questions you may have. 
+
+Full Name: Rowan Blanchard
+Field: Education
+Username: rowrowyourboat
+Password: teachergal
+Age: 45
+Email: blanchardb@gmail.com
+Type: Networker
+Looking for: A teacher friend! As a new teacher at a small school, I want to build my community. I want someone to talk to and vent to about all things teaching! If you want to sit and chat, let me know!
+Yourself: I am a high school teacher and a great listener. I understand all the struggles that come along with teaching and I want to make both of our experiences better. I love to embrace creativity in the classroom, and I have high energy when teaching. Get to know me!
+
+Full Name: Megan Burns
+Field: Broadcasting
+Username: meganrenae
+Password: ladybug!
+Age: 20
+Email: hahalol@gmail.com
+Type: Applicant
+Looking for: I am looking for an internship in Sports Broadcasting. I am passionate about sports, and I have experience in reporting Football and Basketball for the University of Arizona. Being on camera is the type of thing I want to do for my internship and career. 
+Yourself: I have a lot of personality and charisma that I believe will make me a good fit for any Sports Broadcasting internship position. I can deliver the facts and still be entertaining. My interview skills are also top notch. I believe my experience in college sports will prepare me for this.
+
+Full Name: Shelby Hardy
+Field: Broadcasting
+Username: hardyshelby1
+Password: alphadeltapi
+Age: 23
+Email: shelbyhardy77@gmail.com
+Type: Applicant
+Looking for: I am looking for a full time job with a company that reports on Hockey. A fast-paced, yet small work environment with a community of passionate employees is ideal. 
+Yourself: As a recent graduate with a Bachelor’s degree in Sports Broadcasting, although my experience isn’t full, my studies have prepared me well. I graduated in May Summa Cum Laude. Hockey is my favorite sport. Team Management is something that I am also good at considering I was the Treasurer of the Sports Broadcasting club. 
+
+Full Name: Taylor McCann
+Field: Broadcasting
+Username: broadcastertaylor
+Password: pinkpenguin
+Age: 26
+Email: mccannt@gmail.com
+Type: Networker
+Looking for: I am just looking for a friend in the sports broadcasting field. I work for a small company, and would love to sit and hear more about other companies and ways that they implement film, interviewing, and more. 
+Yourself: I am the lead reporter for sports for KUTV local news, so management is my specialty. I often cover high school, college, and the occasional professional sporting event. I am friendly, passionate, dedicated, and I love leading and managing my team! I am open to being a friend and someone to lean on. 
+
+Full Name: Regan Washington
+Field: Broadcasting
+Username: rerewash
+Password: max5545
+Age: 30
+Email: washingtonr@gmail.com
+Type: Networker
+Looking for: I am looking to make friends who are professionals in the Sports Broadcasting field. I would love to meet someone who has experience in Leadership and Management. Any level is welcome, I just want to mingle and find someone to lean on!
+Yourself: I am a film director for Tucson local news. We typically cover crisis and weather. I also have expertise in interviewing, as I studied psychology at the University of Denver. 
+
+Full Name: Keke Burkholder
+Field: Broadcasting
+Username: kkburk
+Password: highfivesix
+Age: 39
+Email: burkykeke@gmail.com
+Type: Employer
+Looking for: I am on the hunt for potential interns and mentees to chat with as I travel around the world. I work for ABC news and travel to report, I am always looking to share my knowledge. I am looking for a current student or recent graduate from local universities. 
+Yourself: I work for a big broadcasting company, ABC News. I am based in New York City but I am the head travel reporter. We are also looking to fill an internship position for this summer, so we can discuss that as well. The intern will need to have experience with being on camera as they will be doing a lot of that.
+
+Full Name: Madison Alejos
+Field: Broadcasting
+Username: madsalejos
+Password: brianchristian
+Age: 40
+Email: alejosm@gmail.com
+Type: Employer
+Looking for: A student to chat with about our company and a potential internship position. We want to spread the word on our newer company and see what students would like to see from us.
+Yourself: We have a small work environment that is new to the sports broadcasting world. We cover all sports such as Football, Basketball, and Hockey. 
+
+Full Name: Christine Kidd
+Field: Computer Science
+Username: compscichristi
+Password: toocool1212
+Age: 22
+Email: kiddo@gmail.com
+Type: Applicant
+Looking for: Full time job offers in any part of the development world. 
+Yourself: I am a recent graduate with a Bachelor’s degree in Computer Science. My side projects include Application Development, so anything within iOS or even machine learning is where my specialty lies. 
