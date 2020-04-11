@@ -8,7 +8,7 @@ We were inspired by how college culture embraces dating sites to create connecti
 Our solution implemented AI to take in user's input for a profile, their interests and career goals, and to match them with an employer or seeker based on compatibility.
 
 # How We Did It
-We coded in Java and created a UserCollection class with sample data that contained user profile information. We stored key words into ArrayLists and HashMaps and compared data against job recruiters and seekers to create an accuracy score with nearby matches. Java FX is incorporated to display our AI feature "Annette" whom takes and stores the user's inputs and finds a match. Our primary focus was issuing connections in real time.
+We coded in Java and created a UserCollection class with sample data that contained user profile information. We stored key words into ArrayLists and HashMaps and compared data against job recruiters and seekers to create an accuracy score with nearby matches. Java FX is incorporated to display our AI feature [Annette](https://github.com/chelseybergmann/Hack-Arizona-2020/blob/master/Annette.png) whom takes and stores the user's inputs and finds a match. Our primary focus was issuing connections in real time.
 
 # What You'll Need
 Java FX must be installed for this version.  However, in the next version we would like to make it an iOS feauture. 
