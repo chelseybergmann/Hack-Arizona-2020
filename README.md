@@ -2,7 +2,7 @@
 
 # The Goal
 I collaborated in a team of four to create a prototype that would improve the job seeking and recruiting world.
-We were inspired by how college culture embraces dating sites to create connections and meeting people on the spot. We wanted to incorporate this convenience into the professional world, while keeping face to face connections the top priority.
+We were inspired by how college culture embraces dating sites to create connections and meeting people on the spot, and we wanted to incorporate this convenience into the professional world, while keeping face to face connections the top priority.
 
 # What We Did
 Our solution implemented AI to take in user's input for a profile, their interests and career goals, and to match them with an employer or seeker based on compatibility.
