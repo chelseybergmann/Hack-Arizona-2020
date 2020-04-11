@@ -17,7 +17,7 @@ Java FX must be installed for this version.  However, in the next version we wou
 Originally, we desired to create an app and looked into coding with Swift. We soon realized the learning curve was too steep for the 36 hour limit.  We decided to code in something we were all skilled in - Java.
 
 ## Authors
-Chelsey Bergmann
-Chloe Dillingham
-Erica Kulash
+Chelsey Bergmann <br>
+Chloe Dillingham <br>
+Erica Kulash <br>
 Andrew deBerardinis
